@@ -1,0 +1,14 @@
+{
+  "extends": "tslint-config-standard-plus",
+  "rules": {
+    "no-any": false,
+    "space-before-function-paren": false,
+    "array-bracket-spacing": false
+  },
+  "linterOptions": {
+    "exclude": [
+      "config/**/*.js",
+      "node_modules/**/*.ts"
+    ]
+  }
+}

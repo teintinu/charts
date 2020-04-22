@@ -1,0 +1,5 @@
+dist/*.test*
+dist/__tests__/**
+dist/__tests__/
+/dist/__tests__
+*.map
